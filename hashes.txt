@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Llama de seda
+
+This log tracks the cryptographic history and versioning for the song **Llama de seda** (llama-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:30:09.370221 | `v1` | `62666a589abc5f0c95d7edb00365ed9068c9384c5a0c3c2f688a4b036adf83ff` | `a056d4cba5b03ee6da0313c152d2585b32d76d104c31e92026110b80add7e4c5` | `2026-06-24_llama-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
